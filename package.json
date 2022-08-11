@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "rename-index": "node -e \"require('fs').rename('dist/index.html', 'dist/404.html', function(err) { if (err) console.log(err); console.log('index.html successfully renamed to 404.html') })\""
   },
   "dependencies": {
     "@mdi/font": "5.9.55",
