@@ -1,20 +1,20 @@
 <template>
-  <HelloWorld />
-  <PortraitViewDivider />
+  <v-container>
+    <Home/>
+  </v-container>
 </template>
 
 <script>
 import { defineComponent } from 'vue';
 
 // Components
-import HelloWorld from '../components/HelloWorld.vue'
-import PortraitViewDivider from '../components/PortraitViewDivider.vue'
+import Home from '../components/Home.vue'
 
 export default defineComponent({
   name: 'HomeView',
 
   components: {
-    HelloWorld, PortraitViewDivider,
+    Home,
   },
 });
 </script>

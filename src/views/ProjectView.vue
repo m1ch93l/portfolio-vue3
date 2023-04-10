@@ -1,5 +1,5 @@
 <template>
-  <ProjectCom />
+  <ProjectTitle/>
   <CardCom />
 </template>
 
@@ -7,14 +7,15 @@
 import { defineComponent } from 'vue';
 
 // Components
-import ProjectCom from '../components/ProjectCom.vue'
 import CardCom from '../components/CardCom.vue'
+import ProjectTitle from '@/components/ProjectTitle.vue';
 
 export default defineComponent({
   name: 'ProjectView',
 
   components: {
-    ProjectCom, CardCom,
-  },
+    CardCom,
+    ProjectTitle
+},
 });
 </script>
