@@ -3,6 +3,7 @@
     <v-navigation-drawer app v-model="drawer">
       <!-- Sidebar content goes here -->
       <PortraitViewDivider />
+      <SidebarFooter/>
     </v-navigation-drawer>
     
     <v-app-bar app>
@@ -23,10 +24,11 @@
 <script>
 import TopNavbar from '@/components/TopNavbar.vue'
 import PortraitViewDivider from './components/PortraitViewDivider.vue';
+import SidebarFooter from './components/SidebarFooter.vue';
 
 export default {
   name: 'App',
-  components: { TopNavbar, PortraitViewDivider },
+  components: { TopNavbar, PortraitViewDivider, SidebarFooter },
 
   data: () => ({
     //
