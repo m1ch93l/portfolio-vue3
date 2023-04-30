@@ -10,6 +10,7 @@
                 :icon="icon"
                 size="x-large"
                 variant="text"
+                :href="getLink(icon)"
             ></v-btn>
         </div>
 
@@ -32,8 +33,26 @@
         'mdi-facebook',
         'mdi-twitter',
         'mdi-linkedin',
-        'mdi-instagram',
+        'mdi-github',
       ],
     }),
+    
+  methods: {
+    getLink(icon) {
+      switch (icon) {
+        case 'mdi-facebook':
+          return 'https://www.facebook.com/';
+        case 'mdi-twitter':
+          return 'https://twitter.com/';
+        case 'mdi-linkedin':
+          return 'https://www.linkedin.com/';
+        case 'mdi-github':
+          return 'https://github.com/m1ch93l';
+        default:
+          return '';
+      }
+    },
+  },
+
   }
 </script>
