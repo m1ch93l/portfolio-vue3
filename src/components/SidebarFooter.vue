@@ -41,7 +41,7 @@
     getLink(icon) {
       switch (icon) {
         case 'mdi-facebook':
-          return 'https://www.facebook.com/';
+          return 'https://web.facebook.com/michael.banaria25';
         case 'mdi-twitter':
           return 'https://twitter.com/michaelbbanaria';
         case 'mdi-linkedin':
