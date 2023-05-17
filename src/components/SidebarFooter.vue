@@ -43,9 +43,9 @@
         case 'mdi-facebook':
           return 'https://www.facebook.com/';
         case 'mdi-twitter':
-          return 'https://twitter.com/';
+          return 'https://twitter.com/michaelbbanaria';
         case 'mdi-linkedin':
-          return 'https://www.linkedin.com/';
+          return 'https://www.linkedin.com/in/m1ch93l/';
         case 'mdi-github':
           return 'https://github.com/m1ch93l';
         default:
