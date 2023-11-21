@@ -15,7 +15,7 @@
         </div>
 
         <div class="pt-0">
-        Connect with me
+        Collaborate with me
         </div>
 
         <v-divider></v-divider>
