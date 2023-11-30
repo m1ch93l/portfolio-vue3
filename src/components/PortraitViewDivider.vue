@@ -5,7 +5,7 @@
     </v-row>
     <v-row justify="center pt-5">
       <h1 class="text-center">Michael B. Bañaria</h1>
-      <p class="text-center">A Programmer and Future Innovator</p>
+      <p class="text-center">A Programmer and Tech Innovator</p>
     </v-row>
   </v-container>
 </template>
