@@ -39,7 +39,14 @@
         <v-divider></v-divider>
 
         <v-card-text>
-          The project overview of THE BCC MOBILE AND WEB-BASED FACULTY EVALUATION SYSTEM. The uses of this system is to provide an image that can see the performance of the faculty from the feedback from multiple sources including clients, subordinates, peers, students, and more, so they accurately use of the manager or the coordinator of the school. And they can make a good decision and know how to evaluate the employee if their task is doing good. This system will be going to help the administrator to identify if their employee is making a good decision that can suite for their assigned task and can evaluate anytime. From this viewpoint, performance evaluation fulfills this important functions, the motivation and training.
+         The purpose of THE BCC MOBILE AND WEB-BASED FACULTY EVALUATION SYSTEM is to provide 
+          an image of the faculty's performance based on feedback from a variety of sources, 
+          including clients, subordinates, peers, students, and others, so that the manager or 
+          coordinator of the school can make an informed decision. And they can make sound decisions
+          and know how to evaluate employees if their tasks are doing well. This system will assist 
+          administrators in determining whether their employees are making appropriate decisions for 
+          their assigned assignment and may be evaluated at any moment. From this perspective, performance evaluation fulfills 
+          two critical functions: motivation and training.
         </v-card-text>
       </div>
     </v-expand-transition>
