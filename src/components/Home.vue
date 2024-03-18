@@ -5,11 +5,12 @@
           Passionate Full-Stack Developer with Expertise in Vue.js, PHP Laravel, and React.js<br>
         </p>
         <p class="mb-5 text-h4">
-          Hello, I'm Michael, a dynamic and results-driven Full-Stack Developer with a strong foundation in Vue.js, PHP Laravel, and React.js. With a keen eye for detail and a commitment to creating seamless user experiences, I bring innovation and efficiency to every project.<br><br>
+          Hello, my name is Michael. I am a dynamic and motivated by outcomes Developer with a full with strong roots in Vue.js, PHP, Laravel, and React.js. With a great eye for attention to detail and an unwavering commitment to developing smooth interactions with customers, I bring creativity and effectiveness to all projects.
+<br><br>
           <b>Technical Proficiency:</b><br>
         </p>
-        <p class="mb-5 text-h4">
-          PHP Laravel: With a solid grasp of PHP Laravel, I excel in developing robust and scalable back-end solutions. My proficiency in Laravel ensures the creation of secure and efficient server-side applications, delivering seamless performance and optimal functionality.
+        <p class="mb-5 text-h4 text-mono">
+          Vue.js (Front end) and PHP (Back end), I excel in developing industry-ready solutions as well as creating secure and efficient strategy to meet the needs of future developments.
         </p>
       </div>
   </v-container>
