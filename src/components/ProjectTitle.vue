@@ -2,7 +2,7 @@
   <v-container>
       <div class="v-card text">
         <p class="font-weight-bold mb-0 text-h4">
-          SELECT * FROM person WHERE you = 'success' ;
+          Take a look at some of my works created with confidence and hard work.
         </p>
       </div>
   </v-container>
